@@ -1,5 +1,12 @@
 # AutoDamageNet – Vehicle Damage Detection  
 
+## 🎥 Live Demo  
+
+Check out the live demo of **AutoDamageNet** deployed on Streamlit:  
+
+👉 [AutoDamageNet Live App](https://auto-damage-net.streamlit.app/)
+
+
 ## 🚗 Overview  
 AutoDamageNet is a deep learning project designed to automatically detect **vehicle damage**. The model classifies images of vehicles into **6 categories**:  
 
