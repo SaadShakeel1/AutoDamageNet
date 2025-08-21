@@ -32,3 +32,9 @@ This system can help in **insurance claims, accident assessment, and vehicle ins
 - **Deployment**: Streamlit  
 
 ---
+
+## Install Dependencies
+- **pip install -r requirements.txt**
+
+## Run Streamlit App
+- **streamlit run app.py**
